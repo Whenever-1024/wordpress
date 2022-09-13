@@ -1,0 +1,450 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WK Wow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-15 15:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.2-alpha-48959"
+
+#: inc/template-tags.php:152
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:55 inc/template-tags.php:61
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:156
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:159
+msgid ""
+"<span style=\"margin-left: 5px;\" class=\"glyphicon glyphicon-edit\"></span> "
+"Edit"
+msgstr ""
+
+#: inc/wp_bootstrap_navwalker.php:365
+msgid "Add a menu"
+msgstr ""
+
+#: functions.php:113 functions.php:124 functions.php:135 functions.php:144
+#: functions.php:153
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "All Bootstrap Assets and FontAwesome will be loaded in CDN."
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Banner Tagline"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Banner Title"
+msgstr ""
+
+#. Name of the template
+msgid "Blank with Container"
+msgstr ""
+
+#. Name of the template
+msgid "Blank without Container"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Build a Website For Free"
+msgstr ""
+
+#: comments.php:97
+msgid "Cancel Reply"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Colors"
+msgstr ""
+
+#: comments.php:52 comments.php:70
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:87
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/content.php:36
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Copyright date format, see https://www.php.net/date
+#: footer.php:24
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Coupon:"
+msgstr ""
+
+#: inc/custom-header.php:35
+msgid "Desk"
+msgstr ""
+
+#: inc/template-tags.php:137
+msgid "Edit"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:71 template-parts/content-page.php:39
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: functions.php:133
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:142
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:151
+msgid "Footer 3"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Header Banner"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Header Banner Background Color"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Header Image"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://web-komp.eu/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://web-komp.eu/theme/wow"
+msgstr ""
+
+#: footer.php:29
+msgid "https://web-komp.eu/theme/wow/"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:40
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: comments.php:94
+msgid "Leave a Reply"
+msgstr ""
+
+#. 1: Reply Specific User
+#: comments.php:96
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Main color"
+msgstr ""
+
+#: comments.php:56 comments.php:74
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "no"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: comments.php:55 comments.php:73
+msgid "Older Comments"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Other Customizations"
+msgstr ""
+
+#: template-parts/content-notitle.php:18 template-parts/content-page.php:27
+#: template-parts/content.php:40
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:261
+msgid "Password:"
+msgstr ""
+
+#: inc/template-tags.php:137
+msgid "Pingback:"
+msgstr ""
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/template-tags.php:31
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: comments.php:98
+msgid "Post Comment"
+msgstr ""
+
+#: inc/template-tags.php:26
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:57
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Preset Styles"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:77
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:103
+msgid "Quantity"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Remove Header Banner"
+msgstr ""
+
+#: woocommerce/cart/cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgid "Search products&hellip;"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+msgid "Shop order"
+msgstr ""
+
+#: functions.php:111
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Start Blogging in Style"
+msgstr ""
+
+#: functions.php:261
+msgid "Submit"
+msgstr ""
+
+#: searchform.php:7
+msgctxt "submit button"
+msgid "Go"
+msgstr ""
+
+#: woocommerce/product-searchform.php:30
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+msgid "Subtotal"
+msgstr ""
+
+#: inc/template-tags.php:63
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"The best WordPress theme based on the most powerful frameworks in the world: "
+"\"_s\" by Automattic, Twitter Bootstrap 4. Page templates includes Right-"
+"sidebar (default page template), Left-Sidebar, Full-Width, Blank with "
+"container, Blank without container Page. Other features, WooCommerce ready, "
+"Compatible with Contact Form 7, Compatible with Elementor Page Builder. Demo:"
+" http://demo.web-komp.eu/wow"
+msgstr ""
+
+#: footer.php:30
+msgid "Theme Wow by WebKomp"
+msgstr ""
+
+#: functions.php:260
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#: header.php:57
+msgid "Toggle navigation"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+msgid "Total"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Typography"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Update cart"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Use CDN for Assets"
+msgstr ""
+
+#. Author of the theme
+msgid "WebKomp"
+msgstr ""
+
+#. Name of the theme
+msgid "WK Wow"
+msgstr ""
+
+#: functions.php:122
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Yes"
+msgstr ""
+
+#: comments.php:103
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: inc/template-tags.php:164
+msgid "Your comment is awaiting moderation."
+msgstr ""
